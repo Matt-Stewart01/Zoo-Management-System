@@ -1,0 +1,8 @@
+Shark,Felix,2,Blue,142.0,12
+Spider,Tary,1,Black,12.0,20
+Elephant,Ellie,13,Red,210.0,30
+Monkey,Monk,8,Yellow,61.3,0
+Eagle,Terrance,4,Red,36.0,8
+Dolphin,Aqua,1,Blue,101.5,14
+Owl,Benson,11,Green,24.0,4
+Monkey,george,5,red,13.0,11
