@@ -7,4 +7,12 @@ The zoo managament system is a terminal command line interfaced program in which
 Java
 
 # Functions
-- 
+- Adding Animals
+- Removing Animals
+- Modify Animal
+- View All Animals
+- Print Zoo Report
+- Perform Daily Care
+- Search Animal By Name/Colour
+- Save
+- Save & Exit
